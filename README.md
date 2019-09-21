@@ -1,1 +1,1 @@
-basic azure media player component
+Basic azure media player component
